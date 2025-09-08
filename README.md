@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">Hey there 👋 I am Debashish Rana a passionate Software Developer from India.</h1>
+<h1 align="center">Hey there 👋 I am Debashish Rana a passionate Software Developer from India.</h1> 
 
 ###
 
